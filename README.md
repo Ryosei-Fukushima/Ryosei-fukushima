@@ -15,7 +15,7 @@
   <a href="https://github.com/Ryosei-Fukushima">
     <img height="20" src="https://komarev.com/ghpvc/?username=Ryosei-Fukushima" />
   </a>
-  <a href="https://github.com/Ryosei-Fukushima">
+<!--   <a href="https://github.com/Ryosei-Fukushima">
     <img height="20" src="https://img.shields.io/github/followers/Ryosei-Fukushima?label=follow&logo=github&style=flat" />
-  </a>
+  </a> -->
 </p>
